@@ -1,0 +1,20 @@
+
+N	java:S1060"9Replace this use of System.out or System.err by a logger.(ğÉ®™
+>
+java:S1481"(Remove this unused "row" local variable.(Áé«ü
+n
+java:S1104"SMake connect a static final constant or non-public and provide accessors if needed.(¬öş†úÿÿÿÿ
+S	java:S1064"9Replace this use of System.out or System.err by a logger.(şÊ°ùÿÿÿÿ
+l
+java:S1450"QRemove the "ps" field and declare it as a local variable in the relevant methods.(¾Õ’‹ûÿÿÿÿ
+s
+java:S1450"XRemove the "resultSet" field and declare it as a local variable in the relevant methods.(µ°´Ëøÿÿÿÿ
+n
+java:S1450"XRemove the "statement" field and declare it as a local variable in the relevant methods.(”Ş‹Á
+R
+java:S2589/"7Remove this expression which always evaluates to "true"(øÔ…øÿÿÿÿ
+H
+java:S1444"-Make this "public static connect" field final(¬öş†úÿÿÿÿ
+M
+java:S1854"7Remove this useless assignment to local variable "row".(Áé«ü
+N	java:S106%"9Replace this use of System.out or System.err by a logger.(åã¿Ú

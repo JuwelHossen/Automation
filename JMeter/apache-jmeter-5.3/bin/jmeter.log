@@ -1,0 +1,22 @@
+2020-07-02 17:24:01,372 INFO o.a.j.u.JMeterUtils: Setting Locale to en_US
+2020-07-02 17:24:01,414 INFO o.a.j.JMeter: Loading user properties from: user.properties
+2020-07-02 17:24:01,415 INFO o.a.j.JMeter: Loading system properties from: system.properties
+2020-07-02 17:24:01,417 INFO o.a.j.JMeter: Copyright (c) 1998-2020 The Apache Software Foundation
+2020-07-02 17:24:01,417 INFO o.a.j.JMeter: Version 5.3
+2020-07-02 17:24:01,417 INFO o.a.j.JMeter: java.version=1.8.0_251
+2020-07-02 17:24:01,418 INFO o.a.j.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+2020-07-02 17:24:01,418 INFO o.a.j.JMeter: os.name=Mac OS X
+2020-07-02 17:24:01,418 INFO o.a.j.JMeter: os.arch=x86_64
+2020-07-02 17:24:01,418 INFO o.a.j.JMeter: os.version=10.15.5
+2020-07-02 17:24:01,418 INFO o.a.j.JMeter: file.encoding=UTF-8
+2020-07-02 17:24:01,418 INFO o.a.j.JMeter: java.awt.headless=null
+2020-07-02 17:24:01,418 INFO o.a.j.JMeter: Max memory     =1908932608
+2020-07-02 17:24:01,418 INFO o.a.j.JMeter: Available Processors =4
+2020-07-02 17:24:01,430 INFO o.a.j.JMeter: Default Locale=English (United States)
+2020-07-02 17:24:01,430 INFO o.a.j.JMeter: JMeter  Locale=English (United States)
+2020-07-02 17:24:01,431 INFO o.a.j.JMeter: JMeterHome=/Users/juwel/Desktop/WEB-AUTOMATION-2020/JMeter/apache-jmeter-5.3
+2020-07-02 17:24:01,431 INFO o.a.j.JMeter: user.dir  =/Users/juwel/Desktop/WEB-AUTOMATION-2020/JMeter/apache-jmeter-5.3/bin
+2020-07-02 17:24:01,431 INFO o.a.j.JMeter: PWD       =/Users/juwel/Desktop/WEB-AUTOMATION-2020/JMeter/apache-jmeter-5.3/bin
+2020-07-02 17:24:01,432 INFO o.a.j.JMeter: IP: 192.168.1.4 Name: MacBook-Pro-3.home FullName: macbook-pro-3.home
+2020-07-02 17:24:01,925 INFO o.a.j.JMeter: Setting LAF to: com.github.weisj.darklaf.DarkLaf:com.github.weisj.darklaf.theme.DarculaTheme
+2020-07-02 17:24:03,970 INFO o.a.j.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties

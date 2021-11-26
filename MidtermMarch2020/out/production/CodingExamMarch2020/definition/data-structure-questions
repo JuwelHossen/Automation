@@ -1,0 +1,123 @@
+Please answer the below Data Structure Questions:
+
+why do we need data structure?
+A. To organize data. and efficient way to find data.
+
+What are the various operations that can be performed on different Data Structures?
+ Insertion, Deletion, Searching, Sorting and Merging
+
+List out the areas in which data structures are applied extensively?
+Database Management System,
+Statistical analysis
+Numerical Analysis
+Artificial Intelligence
+
+
+what is an Array?
+An array is a container that contains a group of elements.
+
+what is the difference between the Array and ArrayList?
+Array sized is fixed.
+ArrayList size can be increased and decreased
+
+what is LinkedList?
+
+
+
+How is an Array different from Linked List?
+ LinkedList elements are not stored in contiguous locations like arrays.
+ Arrays store ELEMENTS in contiguous location.
+
+what is queue?
+Queue represents a data structure designed to have elements inserted at the end of the queue or line.
+
+what is stack?
+A stack is a container of data inserted and removed according to the last-in first-out.
+
+what is FIFO and LIFO?
+FIFO: first in first out
+LIFO: Last in first out
+
+what is the order of complexity?
+O(log n)
+O(n)
+O(n log n)
+O(n^2)
+O(n^3)
+O(n!)
+
+what is the best case to search an element from an array?
+O(1)
+
+what is the worst case to search an element from an array?
+O(n)
+
+what is tree in data structure?
+A tree is a representation of the non-linear data structure.consisting of root nod to child node  by edges.
+
+what is graph in data structure?
+A Graph is a non-linear data structure consisting of nodes and edges.
+
+what is the difference between the HashTable and HashMap?
+HashMap allows one null key and multiple null values
+Hashtable doesn't allow any null key or value.
+
+What are the major data structures used in the following areas : RDBMS, Network data model and Hierarchical data model
+RDBMS = Array
+Network data model = Graph.
+Hierarchical data model = Trees.
+
+How HashMap works in java?
+Hash functions are used to link key and value in HashMap.
+
+Read more: https://javarevisited.blogspot.com/2011/02/how-hashmap-works-in-java.html#ixzz6JEghJe7P
+
+What is ArrayIndexOutOfBoundsException in java? When it occurs?
+ArrayIndexOutOfBoundsException is thrown to indicate
+that we are trying to access array element with an illegal index.
+When index value greater than array's elements
+
+What are the different ways of copying an array into another array?
+Deep copy
+Shadow copy
+Manually.
+Arrays.copyOf()
+System.arraycopy()
+Object.clone()
+
+
+What is DFS and BFS?
+
+BFS:(Breadth First Search) uses Queue data structure for finding the shortest path.
+DFS:(Depth First Search) uses Stack data structure.
+
+What is Recursion?
+ A method calls itself is called recursion.
+
+What are linear and non linear data Structures?
+ In a linear data structure, data elements are arranged in a linear order where
+ each and every elements are attached to its previous and next adjacent.
+ In a non-linear data structure, data elements are attached in hierarchically manner
+
+What is Big-(O)-notation?
+Big O notation is used in Computer Science to describe the performance or complexity of an algorithm.
+
+Outlined different kind of sorting algorithm with time complexity?
+
+Selection Sort	Ω(n^2)	θ(n^2)	O(n^2)
+Bubble Sort	Ω(n)	θ(n^2)	O(n^2)
+Insertion Sort	Ω(n)	θ(n^2)	O(n^2)
+Heap Sort	Ω(n log(n))	θ(n log(n))	O(n log(n))
+Quick Sort	Ω(n log(n))	θ(n log(n))	O(n^2)
+Merge Sort	Ω(n log(n))	θ(n log(n))	O(n log(n))
+Bucket Sort	Ω(n+k)	θ(n+k)	O(n^2)
+Radix Sort	Ω(nk)	θ(nk)	O(nk)
+
+
+Draw a table with time complexity in which it will summarize all the data structure feature's advantages and disadvantages.
+  a)In terms of Accessing element.
+  b)In terms of Inserting element.
+  c)In terms of Searching element.
+  d)In terms of Removing element.
+
+

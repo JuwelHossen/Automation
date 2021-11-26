@@ -1,0 +1,95 @@
+This file contains SQL questions.
+Please read the questions and answer.
+
+What is Database?
+A. A database is an organized information or structured data.
+
+What is DBMS?
+A database is usually controlled by a database management system (DBMS).
+
+What is the difference between SQL and MySQL?
+SQL (Structure query language)is used in the accessing, updating, and manipulation of data in a database.
+MySQL is an Relational database management system that allows keeping the data that exists in a database.
+
+What is RDBMS? How is it different from DBMS?
+
+RDBMS:Relational database management system. store data in a tabular form,
+DBMS:Database management system.store data in a file form
+
+What are Tables and Fields?
+A table is a data structure where data can be organized.
+A fields columns & records
+
+What is SQL?
+Standard Structured Query Language is used to data manipulation.
+
+What are Constraints in SQL?
+Constraints are the rules enforced on the data columns of a table.
+
+What is a Primary Key?
+A primary key is a special key used to uniquely identify records in a table, unique and not null.
+
+What is a Foreign Key?
+Foreign key is used to establish relationship between two tables. can be duplicated for one table
+but primary key for the another table
+
+What is Normalization?
+It usually divides a large table into smaller ones, so it is more efficient.
+
+What is Denormalization?
+
+Denormalization is a database optimization technique in which we add redundant data to one or more tables.
+
+You have 2 tables given below.
+
+Order Table:
+
+OrderID	 CustomerID	  OrderDate
+20508	    1	      2014-09-10
+30407	    2	      2016-09-19
+40250	    10	      2020-03-20
+
+Customer Table:
+
+CustomerID	   CustomerName	    CustomerPhone	     Country
+1              John Dave	    1-718-203-9087	     Australia
+2	           Brian Gary	    1-646-789-3489	     USA
+3	           Chris Brown	    1-212-342-7843       Canada
+
+Please do the following on above Order table and Customer table:
+
+Inner Join:
+
+SELECT order.orderID,order.customerID,Customer.customerID,Customer.customerName, Customer.customerPhone
+FROM Order
+INNER JOIN customer
+ON order.customerID = Customer.customerID;
+
+Left Join:
+
+SELECT order.orderID,order.customerID,Customer.customerID,Customer.customerName, Customer.customerPhone
+FROM Order
+LEFT JOIN customer
+ON order.customerID = Customer.customerID;
+
+Right Join:
+SELECT order.orderID,order.customerID,Customer.customerID,Customer.customerName, Customer.customerPhone
+FROM Order
+RIGHT JOIN customer
+ON order.customerID = Customer.customerID;
+
+Full Join:
+
+SELECT order.orderID,order.customerID,Customer.customerID,Customer.customerName, Customer.customerPhone
+FROM Order
+FULL JOIN customer
+ON order.customerID = Customer.customerID;
+
+On Customer Table, please Insert one row.
+insert into Customer values(4,'John Doe', '1-333-444-5555','USA');
+
+
+On Order Table, please Update one row.
+insert into Order values(23000,2, '01-01-2020');
+
+

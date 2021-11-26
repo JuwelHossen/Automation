@@ -1,0 +1,11 @@
+
+]
+java:S1128
+"@Remove this unused import 'javax.xml.bind.SchemaOutputResolver'.(—­±Í8¿¢°ù“/
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¿ã‰Ì
+Y
+java:S1128"DRemove this unused import 'org.openqa.selenium.chrome.ChromeDriver'.(†È
+N	java:S106""9Replace this use of System.out or System.err by a logger.(­øÀ
+j
+java:S1192%"TDefine a constant instead of duplicating this literal "twotabsearchtextbox" 4 times.(˜ş¹“
+N	java:S106"9Replace this use of System.out or System.err by a logger.(›æŒÁ

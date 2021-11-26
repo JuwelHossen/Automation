@@ -1,0 +1,25 @@
+
+F
+java:S1444"+Make this "public static item2" field final(”Š‘ıÿÿÿÿ
+A
+java:S1444"+Make this "public static item5" field final(‘ÈÅÃ
+g
+java:S1104	"QMake item3 a static final constant or non-public and provide accessors if needed.(èüò›
+F
+java:S1444
+"+Make this "public static item4" field final(şÒÆ¤ùÿÿÿÿ
+A
+java:S1444	"+Make this "public static item3" field final(èüò›
+g
+java:S1104"QMake item5 a static final constant or non-public and provide accessors if needed.(‘ÈÅÃ
+l
+java:S1104"QMake item2 a static final constant or non-public and provide accessors if needed.(”Š‘ıÿÿÿÿ
+A
+java:S1444"+Make this "public static item1" field final(‚Ù²
+g
+java:S1104"QMake item1 a static final constant or non-public and provide accessors if needed.(‚Ù²
+P
+java:S1118":Add a private constructor to hide the implicit public one.(ÄòŒõ
+l
+java:S1104
+"QMake item4 a static final constant or non-public and provide accessors if needed.(şÒÆ¤ùÿÿÿÿ
